@@ -1,5 +1,5 @@
-name = "nandakumar"
+name = "Renesas"
 print("########################################")
-print("Name of the person is {}".format(name))
+print("Name of the Project is {}".format(name))
 print("########################################")
 
