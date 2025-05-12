@@ -17,7 +17,7 @@ def extract_selected_features(file_path):
         return "File not found. Please check the path and filename."
 
 # Example usage
-file_path = "AKASH.txt"
+file_path = "MISSILE.txt"
 features = extract_selected_features(file_path)
 print("Selected Technical Features:\n")
 print(features)
